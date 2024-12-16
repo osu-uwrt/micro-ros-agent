@@ -1,0 +1,12 @@
+[submodule "micro_ros_msgs"]
+	path = micro_ros_msgs
+	url = ./micro_ros_msgs
+[submodule "micro-ROS-Agent"]
+	path = micro-ROS-Agent
+	url = ./micro-ROS-Agent/
+[submodule "Micro-XRCE-DDS-Agent"]
+	path = Micro-XRCE-DDS-Agent
+	url = ./Micro-XRCE-DDS-Agent/
+[submodule "titan_canmore"]
+	path = titan_canmore
+	url = ./titan_canmore/
